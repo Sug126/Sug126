@@ -1,4 +1,14 @@
-### Hi there 👋
+### Hi there, I'm Sugandha Rao👋
+ 🔭 I’m interested in frontend development
+ 
+ 🌱 I’m currently learning React from Scrimba
+ 
+ 📫 You can reach me: raosugandha12@gmail.com
+ 
+ ⚡ Fun fact: I'm a palette knife artist
+ 
+ 
+ 
 
 <!--
 **Sug126/Sug126** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
