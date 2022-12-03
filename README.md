@@ -1,8 +1,6 @@
 ### Hi there, I'm Sugandha Rao👋
  🔭 I’m interested in frontend development
  
- 🌱 I’m currently learning React from Scrimba
- 
  📫 You can reach me: raosugandha12@gmail.com
  
  ⚡ Fun fact: I'm a palette knife artist
